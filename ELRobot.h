@@ -2,7 +2,7 @@
  * ELRobot.h
  *
  * Created: 21.11.2012 10:33:58
- *  Author: Admin
+ *  Author: Martin Bürgmann
  */ 
 
 
