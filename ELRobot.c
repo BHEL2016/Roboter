@@ -134,7 +134,6 @@ ISR(TIMER3_CAPT_vect)
 
 int main(void)
 {	
-	unsigned char programm_step = 1;
 	
 	set_fuses();
 	init();
@@ -142,6 +141,7 @@ int main(void)
 /*
 	_delay_ms(1000);
 */
+	unsigned char programm_step = 1;
 	beep(2);
 	
 	
